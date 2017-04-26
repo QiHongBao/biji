@@ -1,8 +1,4 @@
-# biji
-课堂笔记
-博客园首页新随笔联系管理订阅
-随笔- 4  文章- 0  评论- 0 
-java中的一些规则（菜鸟的课堂笔记）
+
 ls 查看目录下文件
 java规则
 代码都定义在类中，用class定义
@@ -13,6 +9,7 @@ java规则
 语句要写在方法体里
 严格区分大小写
 注释 // /* */ /** */
+
 java关键字
 abstract	do	implement	private	this
 boolean	double	import	protected	throw
