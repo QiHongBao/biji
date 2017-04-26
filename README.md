@@ -108,7 +108,7 @@ public class Maopao{
 　　　　}
 　　　　System.out.println("排序结果为");
 　　　　for(int j=0;j<5;j++){
-　　　　　　System.out.println(a[j]);
+　　　　　　System.out.println(a[j]); 
 　　　　}
 　　}
 }
