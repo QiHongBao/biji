@@ -34,9 +34,9 @@ javac myfirstapp。java
 java myfirstapp
  
 下面打一个最基础的程序：hello word;
-public class Main{　　　　　　　　　　　　　　//定义一个类，名子自定义，首字母大写，文件名必须与类名一致
+public class Main{　　　　　　　　　　　　　　    //定义一个类，名子自定义，首字母大写，文件名必须与类名一致
 　　public static void main(String[] args){　　//主入口 static静态 void无返回值
-　　　　System.out.println("hello word");　　//java的输出语句
+　　　　System.out.println("hello word");　　  //java的输出语句
 　　}
 }
 这个代码可以输出hello word；
